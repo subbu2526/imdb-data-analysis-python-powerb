@@ -1,41 +1,48 @@
-# IMDb Data Analysis (Cleaned Version)
+# 🎬 IMDb Data Analysis | Python + Power BI
 
-## Project Overview
-This project analyzes movie and show data to extract insights such as:
-- Genre distribution
-- Language trends
-- Ratings comparison
-- Duration analysis
-- Year-wise trends
+## 📌 Project Overview
+This project performs Exploratory Data Analysis (EDA) on IMDb movie and TV show data to identify trends in genres, ratings, duration, and yearly content growth.
 
-This version contains NO copyrighted material, NO external links, 
-and NO hosted images.
-
-## Tools Used
-- Python (pandas, numpy, matplotlib, seaborn)
-- Jupyter Notebook
-- Power BI (for dashboard visualization)
-
-## Project Workflow
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Visualization
-5. Dashboard Creation
-
-## How to Run
-
-### Step 1: Install Requirements
-pip install pandas numpy matplotlib seaborn
-
-### Step 2: Launch Notebook
-jupyter notebook
-
-Open: IMDb_EDA.ipynb
-
-### Step 3: Open Power BI File
-Open IMDb_Dashboard.pbix in Power BI Desktop.
-Update data source path if required.
+The goal is to derive insights that can help production houses and OTT platforms make data-driven decisions.
 
 ---
-Cleaned Project Generated On: 2026-05-01 06:23:19
+
+## 🎯 Objectives
+- Analyze genre distribution
+- Understand rating patterns
+- Identify year-wise content trends
+- Explore duration variations
+- Extract insights from cast data
+
+---
+
+## 🛠 Tech Stack
+- Python (Pandas, NumPy)
+- Matplotlib & Seaborn
+- Jupyter Notebook
+- Power BI
+
+---
+
+## 📊 Key Insights
+- Drama and Comedy dominate content production
+- Most movies fall within 6–8 rating range
+- Content production increased significantly after 2015
+- Certain genres consistently receive higher ratings
+
+---
+
+## 🔄 Project Workflow
+1. Data Collection  
+2. Data Cleaning  
+3. Exploratory Data Analysis (EDA)  
+4. Visualization  
+5. Dashboard Creation  
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install pandas numpy matplotlib seaborn
+jupyter notebook
