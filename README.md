@@ -38,4 +38,4 @@ Open IMDb_Dashboard.pbix in Power BI Desktop.
 Update data source path if required.
 
 ---
-Cleaned Project Generated On: 2026-02-18 06:23:19
+Cleaned Project Generated On: 2026-05-01 06:23:19
